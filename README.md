@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a>Jin long</a>!</h1>
+<h1 align="center">Hi, I'm <a>Kasimov Jumakhon</a>!</h1>
 <h2 align="center"><b>A<i> FullStack Engineer</i></b> </h2>
 
 <!-- <p align="center">
