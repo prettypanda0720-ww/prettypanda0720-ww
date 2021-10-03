@@ -8,16 +8,23 @@
 
 <a href="https://profile-counter.glitch.me/prettypanda0720-ww/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/prettypanda0720-ww/count.svg" /></a>
 
-#### Platform&Tools
+#### Blockchain Development
 
+#### Frontend Development 
+[![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+
+#### Backend Development
+[![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
+#### Platform&Tools
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm%20-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat-square&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
-[![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
+
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
