@@ -1,4 +1,3 @@
-<h1 align="center">Hi, This is Nico Martin</a>!</h1>
 <h2 align="center"><b>A<i> FullStack Engineer</i></b> </h2>
 
 <!-- <p align="center">
