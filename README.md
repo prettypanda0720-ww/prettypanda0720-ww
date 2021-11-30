@@ -7,8 +7,6 @@
 
 <a href="https://profile-counter.glitch.me/prettypanda0720-ww/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/prettypanda0720-ww/count.svg" /></a>
 
-#### Blockchain Development
-[![NFT](https://img.shields.io/keybase/btc/eth?style=flat-square&logo=node.js&logoColor=ffffff)]
 #### Frontend Development 
 [![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 
