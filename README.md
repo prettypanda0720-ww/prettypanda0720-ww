@@ -1,4 +1,4 @@
-<h2 align="center"><b>A<i> FullStack Engineer</i></b> </h2>
+<h2 align="center"><b>Senior<i> BlockChain and FullStack Engineer</i></b> </h2>
 
 <!-- <p align="center">
   <strong><a href="https://prettypanda0720-ww.github.io">博客</a></strong> |
